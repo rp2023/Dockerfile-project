@@ -1,2 +1,9 @@
 my name is rahu;
 hi ok good work
+/////
+story 121
+a=1
+b=2
+c=4
+d=a+b+c
+
